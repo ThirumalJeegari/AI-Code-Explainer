@@ -130,7 +130,6 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Thirumal Jeegari**
-B.Tech Student | Aspiring Java Developer
 
 ---
 
